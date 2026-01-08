@@ -1,3 +1,2 @@
-<b>his is a simple console-based game where the computer randomly selects a number between 1 and 100. The player tries to guess the number, and after each attempt the program gives feedback — telling the player if their guess is too high or too low. The game continues until the correct number is guessed, and it displays the total number of attempts taken.
-
+<b>it  is a simple console-based game where the computer randomly selects a number between 1 and 100. The player tries to guess the number, and after each attempt the program gives feedback — telling the player if their guess is too high or too low. The game continues until the correct number is guessed, and it displays the total number of attempts taken.
 It’s a beginner-friendly project that helps practice loops, conditionals, random number generation, and user input handling in Java.<b>
